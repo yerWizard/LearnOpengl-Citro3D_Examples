@@ -1,0 +1,7 @@
+LearnOpengl-Blending_Discard/build/*
+LearnOpengl-Blending_Blend/build/*
+*.3dsx
+*.elf
+*.smdh
+LearnOpengl-Blending_Blend/romfs/gfx/suicide.png
+LearnOpengl-Blending_Blend/romfs/gfx/grid2.png
